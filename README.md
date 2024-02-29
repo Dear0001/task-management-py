@@ -1,0 +1,1 @@
+//create .env folder and run command pip install -requirements.txt
